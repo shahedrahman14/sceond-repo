@@ -1,0 +1,5 @@
+table,tr,th,td{
+    border: 2px solid darkorchid;
+    border-collapse: collapse;
+}
+table{background-color: paleturquoise;}
