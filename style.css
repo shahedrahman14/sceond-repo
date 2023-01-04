@@ -1,6 +1,6 @@
 table,tr,th,td{
     border: 2px solid darkorchid;
     border-collapse: collapse;
-    color: chartreuse;
+    color: rgb(53, 104, 2);
 }
 table{background-color: paleturquoise;}
